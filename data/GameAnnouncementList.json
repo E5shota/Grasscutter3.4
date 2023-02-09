@@ -1,0 +1,78 @@
+{
+  "t": "{{SYSTEM_TIME}}",
+  "list": [
+    {
+      "list": [
+        {
+          "ann_id": 1,
+          "title": "<strong>欢迎来到Grasscutter!</strong>",
+          "subtitle": "Welcome!",
+          "banner": "{{DISPATCH_PUBLIC}}/hk4e/announcement/assets/banner/1.jpg",
+          "tag_icon": "{{DISPATCH_PUBLIC}}/hk4e/announcement/assets/tag_icon.png",
+          "type": 2,
+          "type_label": "游戏公告",
+          "lang": "zh-CN",
+          "start_time": "2020-09-25 04:05:30",
+          "end_time": "2030-10-30 11:00:00",
+          "content": "",
+          "has_content": true
+        },
+        {
+          "ann_id": 3197,
+          "title": "3.0版本全新内容一览",
+          "subtitle": "全新内容一览",
+          "banner": "",
+          "tag_icon": "https://sdk.hoyoverse.com/upload/announcement/2020/03/05/a2588f1a51faee9fa8dfe9aead649dd6_7237021399135895303.png",
+          "tag_lable":"重要",
+          "type": 2,
+          "type_label": "游戏公告",
+          "lang": "zh-CN",
+          "start_time": "2000-01-02 15:04:05",
+          "end_time": "2030-01-02 15:04:05",
+          "content": "",
+          "has_content": true
+        },
+        {
+          "ann_id": 3141,
+          "title": "「千朵玫瑰带来的黎明」3.0版本更新说明",
+          "subtitle": "3.0版本更新说明",
+          "banner": "https://sdk.hoyoverse.com/upload/announcement/2022/08/18/684231f8ca7569f6e00f3375afc9e8ee_8048290222775946333.jpg",
+          "tag_icon": "https://sdk.hoyoverse.com/upload/announcement/2020/03/05/a2588f1a51faee9fa8dfe9aead649dd6_7237021399135895303.png",
+          "tag_lable":"重要",
+          "type": 2,
+          "type_label": "游戏公告",
+          "lang": "zh-CN",
+          "start_time": "2000-01-02 15:04:05",
+          "end_time": "2030-01-02 15:04:05",
+          "content": "",
+          "has_content": true
+        }
+      ],
+      "type_id": 2,
+      "type_label": "System"
+    },
+    {
+      "list": [
+        {}
+      ],
+      "type_id": 3,
+      "type_label": "Events"
+    }
+  ],
+  "total": 2,
+  "type_list": [
+    {
+      "id": 2,
+      "name": "游戏系统公告",
+      "mi18n_name": "System"
+    },
+    {
+      "id": 1,
+      "name": "活动公告",
+      "mi18n_name": "Activity"
+    }
+  ],
+  "timezone": -5,
+  "alert": false,
+  "alert_id": 0
+}
