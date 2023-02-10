@@ -1,5 +1,5 @@
 # <img src="https://socialify.git.ci/E5shota/Grasscutter3.3/image?name=1&owner=1&theme=Light" alt="Grasscutter3.3" width="640" height="320" />
-# Grasscutter3.3  
+# Grasscutter3.4  
 # 这是一个原神3.4版本私服的服务端一键版
 # 你只要下载两个软件就可以直接游玩自己的服务器了  
 * 1 下载<a href="https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html">Java17</a>  
